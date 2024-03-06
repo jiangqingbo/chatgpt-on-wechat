@@ -10,12 +10,12 @@
   "use_azure_chatgpt": false,
   "hot_reload": false,
   "single_chat_prefix": [
-    "小J",
-    "@小J"
+    "J",
+    "@J"
   ],
   "single_chat_reply_prefix": "[自动回复] ",
   "group_chat_prefix": [
-    "@小J"
+    "@J"
   ],
   "group_name_white_list": [
     "AI测试群",
