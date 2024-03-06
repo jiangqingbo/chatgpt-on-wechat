@@ -8,19 +8,19 @@
   "proxy": "",
   "hot_reload": false,
   "single_chat_prefix": [
-    "znjtgpt",
-    "@znjtgpt"
+    "小J",
+    "@小J"
   ],
   "single_chat_reply_prefix": "[自动回复] ",
   "group_chat_prefix": [
-    "@znjtgpt"
+    "@小J"
   ],
   "group_name_white_list": [
-    "交通AI大师测试群",
-    "交通AI测试"
+    "AI测试群",
+    "AI测试"
   ],
   "group_chat_in_one_session":[
-    "交通AI大师测试群"
+    "AI测试群"
   ],
   "image_create_prefix": [
     "画"
