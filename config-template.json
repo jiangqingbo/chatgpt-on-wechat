@@ -6,8 +6,8 @@
   "voice_to_text": "openai",
   "text_to_voice": "openai",
   "open_ai_api_base": "https://api.openai.com/v1",
-  "proxy": "",  # openai使用的代理
-  "use_azure_chatgpt": true,  # 是否使用azure的chatgpt
+  "proxy": "",
+  "use_azure_chatgpt": true,
   "hot_reload": false,
   "single_chat_prefix": [
     "小J",
