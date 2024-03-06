@@ -7,7 +7,7 @@
   "text_to_voice": "openai",
   "open_ai_api_base": "https://api.openai.com/v1",
   "proxy": "",
-  "use_azure_chatgpt": true,
+  "use_azure_chatgpt": false,
   "hot_reload": false,
   "single_chat_prefix": [
     "小J",
