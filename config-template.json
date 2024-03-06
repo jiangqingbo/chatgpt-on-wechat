@@ -1,11 +1,11 @@
 {
   "channel_type": "wx",
   "model": "gpt-3.5-turbo",
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "fastgpt-9Rt6CVBX2CNNStA0CHL68hqbeksaopi8TVGGVDHaG1Flkfk5G9l1LQ",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
-  "open_ai_api_base": "https://api.openai.com/v1",
+  "open_ai_api_base": "https://api.fastgpt.in/api",
   "proxy": "",
   "use_azure_chatgpt": false,
   "hot_reload": false,
