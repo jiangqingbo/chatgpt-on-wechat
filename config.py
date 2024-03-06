@@ -11,10 +11,10 @@ from common.log import logger
 # 此处的配置值无实际意义，程序不会读取此处的配置，仅用于提示格式，请将配置加入到config.json中
 available_setting = {
     # openai api配置
-    "open_ai_api_key": "fastgpt-9Rt6CVBX2CNNStA0CHL68hqbeksaopi8TVGGVDHaG1Flkfk5G9l1LQ",  # openai api key
+    "open_ai_api_key": "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",  # openai api key
     # openai apibase，当use_azure_chatgpt为true时，需要设置对应的api base
-    "open_ai_api_base": "https://api.fastgpt.in/api",
-    "proxy": "",  # openai使用的代理
+    "open_ai_api_base": "https://api.openai.com/v1",
+    "proxy": "http://70.10.13.16:33210",  # openai使用的代理
     # chatgpt模型， 当use_azure_chatgpt为true时，其名称为Azure上model deployment名称
     "model": "gpt-3.5-turbo",  # 还支持 gpt-4, gpt-4-turbo, wenxin, xunfei, qwen
     "use_azure_chatgpt": False,  # 是否使用azure的chatgpt
