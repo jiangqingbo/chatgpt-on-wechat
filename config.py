@@ -61,9 +61,9 @@ available_setting = {
     "baidu_wenxin_api_key": "",  # Baidu api key
     "baidu_wenxin_secret_key": "",  # Baidu secret key
     # 讯飞星火API
-    "xunfei_app_id": "",  # 讯飞应用ID
-    "xunfei_api_key": "",  # 讯飞 API key
-    "xunfei_api_secret": "",  # 讯飞 API secret
+    "xunfei_app_id": "47f649f3",  # 讯飞应用ID
+    "xunfei_api_key": "e1b986179fd4eb52f6dc68fb4f98dff9",  # 讯飞 API key
+    "xunfei_api_secret": "NTQ1YWQzMTQyNWE1OTllZWUyZDAyYjQz",  # 讯飞 API secret
     # claude 配置
     "claude_api_cookie": "",
     "claude_uuid": "",
