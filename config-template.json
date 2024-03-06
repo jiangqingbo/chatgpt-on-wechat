@@ -8,12 +8,12 @@
   "proxy": "",
   "hot_reload": false,
   "single_chat_prefix": [
-    "交通AI大师",
-    "@交通AI大师"
+    "bot",
+    "@bot"
   ],
-  "single_chat_reply_prefix": "[自动回复] ",
+  "single_chat_reply_prefix": "[bot] ",
   "group_chat_prefix": [
-    "@交通AI大师"
+    "@bot"
   ],
   "group_name_white_list": [
     "交通AI大师测试群",
