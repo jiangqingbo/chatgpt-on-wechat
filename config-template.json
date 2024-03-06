@@ -1,6 +1,6 @@
 {
   "channel_type": "wx",
-  "model": "",
+  "model": "gpt-3.5-turbo",
   "open_ai_api_key": "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",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
@@ -8,16 +8,19 @@
   "proxy": "",
   "hot_reload": false,
   "single_chat_prefix": [
-    "bot",
-    "@bot"
+    "交通AI大师",
+    "@交通AI大师"
   ],
-  "single_chat_reply_prefix": "[bot] ",
+  "single_chat_reply_prefix": "[自动回复] ",
   "group_chat_prefix": [
-    "@bot"
+    "@交通AI大师"
   ],
   "group_name_white_list": [
     "交通AI大师测试群",
     "交通AI测试"
+  ],
+  "group_chat_in_one_session":[
+    "交通AI大师测试群"
   ],
   "image_create_prefix": [
     "画"
